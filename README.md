@@ -19,7 +19,9 @@ GitHub is a cloud-based platform that hosts Git repositories. It enhances team c
 
 ### Installing Git
 #### Windows:
+
 ![Screenshot 2025-01-11 135602](https://github.com/user-attachments/assets/2a64026b-f37c-4e7f-a6a1-f001b4fbb2b5)
+=======
 1. Download the Git installer from [Git for Windows](https://git-scm.com/download/win).
 2. Run the installer and follow the steps, selecting default options unless instructed otherwise.
 3. Verify installation by running `git --version` in the terminal.
