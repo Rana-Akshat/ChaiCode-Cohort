@@ -176,15 +176,5 @@ At ChaiCode, we use the following strategy:
 3. Review your code before committing.
 4. Ensure branches are up-to-date before creating a PR.
 
----
-
-## Deliverables
-
-1. **README.md**: This document, formatted in Markdown, saved in the repository.
-2. **Commit History**: At least 5 meaningful commits.
-3. **Branching**: A sample branch created and merged with the main branch.
-4. **Pull Request**: Demonstrating the workflow.
-
----
 
 Thank you for joining ChaiCode! Happy coding and collaborating!
