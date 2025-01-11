@@ -52,7 +52,10 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-### Creating a GitHub Account
+### Creating a GitHub 
+![Screenshot 2025-01-11 161952](https://github.com/user-attachments/assets/e6eb29b9-c98b-4d3f-9063-6166405aef0a)
+Account
+
 1. Go to [GitHub](https://github.com/).
 2. Click **Sign up** and follow the steps to create your account.
 3. Verify your email address and set up two-factor authentication for added security.
@@ -64,11 +67,11 @@ git config --global user.email "your.email@example.com"
 ### Steps to Clone
 1. Open your terminal.
 2. Run the following command to clone the repository:
-   ```bash
+   ```
    git clone https://github.com/ChaiCode/example-repo.git
    ```
 3. Navigate into the cloned folder:
-   ```bash
+   ```
    cd example-repo
    ```
 
@@ -78,27 +81,27 @@ git config --global user.email "your.email@example.com"
 
 ### Frequently Used Commands
 - **Check repository status**:
-  ```bash
+  ```
   git status
   ```
 - **Stage changes**:
-  ```bash
+  ```
   git add <file-name>
   ```
 - **Commit changes**:
-  ```bash
+  ```
   git commit -m "Your message here"
   ```
 - **Push changes to remote**:
-  ```bash
+  ```
   git push
   ```
 - **Pull updates from remote**:
-  ```bash
+  ```
   git pull
   ```
 - **View commit history**:
-  ```bash
+  ```
   git log
   ```
 
@@ -116,7 +119,7 @@ git config --global user.email "your.email@example.com"
    - `docs:` for documentation changes.
 
 #### Examples:
-```bash
+```
 feat: Add tea selection feature
 fix: Resolve login issue for tea enthusiasts
 docs: Update README with chai varieties
@@ -125,6 +128,8 @@ docs: Update README with chai varieties
 ---
 
 ## Branching Workflow
+![github-flow](https://github.com/user-attachments/assets/5fe171d1-509f-48f5-b57a-5f45273a0d46)
+
 
 ### Branching Strategy
 At ChaiCode, we use the following strategy:
@@ -134,21 +139,21 @@ At ChaiCode, we use the following strategy:
 
 ### Creating and Switching Branches
 - Create a branch:
-  ```bash
+  ```
   git branch feature/tea-menu
   ```
 - Switch to the branch:
-  ```bash
+  ```
   git checkout feature/tea-menu
   ```
 
 ### Merging Branches
 1. Switch to the branch you want to merge into (e.g., `development`):
-   ```bash
+   ```
    git checkout development
    ```
 2. Merge the feature branch:
-   ```bash
+   ```
    git merge feature/tea-menu
    ```
 3. Resolve conflicts if necessary, then commit the merge.
@@ -157,9 +162,11 @@ At ChaiCode, we use the following strategy:
 
 ## Pull Requests (PR)
 
+![1_sMJbSt3sLrC-sIsPOVRBdw](https://github.com/user-attachments/assets/3f7eb1e4-fecb-48dc-9ae9-7466028ed5e8)
+
 ### Steps to Create a Pull Request
 1. Push your branch to GitHub:
-   ```bash
+   ```
    git push origin feature/tea-menu
    ```
 2. Go to the repository on GitHub.
