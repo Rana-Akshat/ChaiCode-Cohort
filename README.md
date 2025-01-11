@@ -52,9 +52,8 @@ git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 ```
 
-### Creating a GitHub 
+### Creating a GitHub Account
 ![Screenshot 2025-01-11 161952](https://github.com/user-attachments/assets/e6eb29b9-c98b-4d3f-9063-6166405aef0a)
-Account
 
 1. Go to [GitHub](https://github.com/).
 2. Click **Sign up** and follow the steps to create your account.
